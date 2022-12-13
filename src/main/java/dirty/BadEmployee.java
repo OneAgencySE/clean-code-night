@@ -10,7 +10,7 @@ public class BadEmployee {
 
     public Type employeeType;
 
-    String urlForSalary = "http://oneagency.se/salaries/gustaveiman";
+    String urlForSalary = "http://oneagency.se/salaries/badsanta";
     ObjectMapper objectMapper = new ObjectMapper();
     int pay = 0;
 
